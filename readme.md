@@ -62,3 +62,7 @@ Para salir del entorno virtual cuando termines:
 ```bash
 deactivate
 ```
+
+# Simulación
+<video src="simulacion_3D.mp4" controls width="100%"></video>
+
