@@ -2,6 +2,9 @@
 
 Realizado por Juan María Tejero y Pablo Rodríguez Laguna
 
+## Simulación
+https://github.com/user-attachments/assets/9b713ac1-5457-4b3d-b5a2-0ef77d674d75
+
 ## Requisitos
 
 - Python 3 instalado.
@@ -63,6 +66,5 @@ Para salir del entorno virtual cuando termines:
 deactivate
 ```
 
-# Simulación
-<video src="simulacion_3D.mp4" controls width="100%"></video>
+
 
